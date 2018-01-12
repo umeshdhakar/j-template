@@ -1,0 +1,6 @@
+bin/
+lib/
+include/
+pip-selfcheck.json
+*.pyc
+jcafe/cafeapp/migrations/
